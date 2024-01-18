@@ -41,3 +41,13 @@ Do not use any frameworks or libraries. Push the code in any public code repo (G
 etc) & share the repo link with us. In the code repo, add the steps / document about how to use
 the program. The program should accept the given parameters and provide the solution as
 output. AI generated code will be disqualified.
+
+
+Task 2
+Do share your thoughts on the following
+- Why do you like to join as a Software developer?
+- List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+- List top 3 organisations you like to join in your career & why you like these organisations.
+- How you position yourself in this industry after 2 years.
+- List 3 projects / products you have built or have planned to build in the upcoming year, also
+explain your role in the same.
