@@ -1,3 +1,7 @@
+// Method1 - Using OOP
+
+// Kindly check the console to view result at the end of the prompt
+
 // Class representing a product
 class Product {
   constructor(name, price) {

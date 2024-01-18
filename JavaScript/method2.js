@@ -1,3 +1,7 @@
+// Method1 - Using Functional Programming
+
+// Kindly check the console to view result at the end of the prompt
+
 // calculate the discount amount based on rules
 const calculateDiscount = (cart, discounts) => {
   let maxDiscount = 0;
